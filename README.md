@@ -4,6 +4,8 @@
 
 A PRQL grammar for [tree-sitter](https://github.com/tree-sitter/tree-sitter).
 
+This repo has been moved to [PRQL](https://github.com/PRQL/tree-sitter-prql)
+
 ## Features
 
 For a complete list of features see the the [tests](test/corpus)
